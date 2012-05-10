@@ -3,5 +3,35 @@
 
     <string name="hello">Hello World, SawatAndroidClientActivity!</string>
     <string name="app_name">SawatAndroidClient</string>
+    <string name="serial_1_txt"> -1</string>
+    <string name="serial_2_txt"> -2</string>
+    <string name="serial_3_txt"> -3</string>
+    <string name="serial_4_txt"> -4</string>
+    <string name="serial_5_txt"> -5</string>
+    <string name="serial_6_txt"> -6</string>
+    <string name="serial_7_txt"> -7</string>
+    <string name="serial_8_txt"> -8</string>
+    <string name="serial_9_txt"> -9</string>
+    <string name="serial_10_txt"> -10</string>
+    <string name="serial_11_txt"> -11</string>
+    <string name="serial_12_txt"> -12</string>
+    <string name="serial_13_txt"> -13</string>
+    
+    <string name="candidate_1_txt">أبو العز الحريري</string>
+    <string name="candidate_2_txt">محمد فوزى عيسى</string>
+    <string name="candidate_3_txt">حسام خير الله</string>
+    <string name="candidate_4_txt">عمرو موسى</string>
+    <string name="candidate_5_txt">عبد المنعم أبو الفتوح</string>
+    <string name="candidate_6_txt">هشام البسطويسي</string>
+    <string name="candidate_7_txt">محمود حسام</string>
+    <string name="candidate_8_txt">محمد سليم العوا</string>
+    <string name="candidate_9_txt">أحمد شفيق</string>
+    <string name="candidate_10_txt">حمدين صباحي</string>
+    <string name="candidate_11_txt">عبد الله الأشعل</string>
+    <string name="candidate_12_txt">خالد علي</string>
+    <string name="candidate_13_txt">محمد مرسي</string>
+    <string name="btn_vote">Vote</string>
+    
+    
 
 </resources>
