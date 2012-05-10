@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, AssignmentTrackerActivity!</string>
+    <string name="app_name">AssignmentTracker</string>
+    <string name="AssignmentTracker">AssigmentTrackerWelcome</string>
+    <string name = "course_class_hint">Course/Class</string>
+    <string name = "assignment_name_hint">Assignment Name</string>
+    <string name = "due_date_hint">Due Date</string>
+    <string name = "assignment_notes_hint">Notes</string>
+    <string name = "btn_add_assignment_text">Add Assignment</string>
+    <string name = "btn_view_assignment_text">View Assignment</string>
+    
+
+</resources>
